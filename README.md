@@ -76,7 +76,7 @@ Save the following as `.json` and load it in Claude Desktop or Cursor:
 
 ## Credits
 
-- **Shodan** ([developer.shodan.io](https://developer.shodan.io/api)) — The world's leading search engine for Internet-connected devices.
+- **Shodan** — The world's leading search engine for Internet-connected devices.
 
 ---
 
