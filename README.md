@@ -30,7 +30,8 @@ If a specific key is not set, the server will fall back to `SHODAN_API_KEY`.
 ### 1. Install dependencies
 
 ```sh
-pip install -r requirements.txt
+    uv add "mcp[cli]"
+    uv add "sseclient-py"
 ```
 
 ### 2. Set your environment variables
