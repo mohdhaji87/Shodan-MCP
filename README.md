@@ -50,7 +50,7 @@ uv --directory /Users/haji/mcp-servers/shodan-mcp run server.py
 
 ### 4. MCP Server Configuration for Claude Desktop
 
-Save the following as `mcpserver.config.json` and load it in Claude Desktop:
+Save the following as `.json` and load it in Claude Desktop or Cursor:
 
 ```json
 {
