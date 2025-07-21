@@ -76,9 +76,6 @@ Save the following as `.json` and load it in Claude Desktop or Cursor:
 ## Credits
 
 - **Shodan** ([developer.shodan.io](https://developer.shodan.io/api)) — The world's leading search engine for Internet-connected devices.
-- **MCP Python SDK** — For rapid, robust tool server development.
-- **httpx** — Modern async HTTP client for Python.
-- **uv** — Lightning-fast Python runner for async servers.
 
 ---
 
